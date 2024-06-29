@@ -1,4 +1,4 @@
-# Detailed Investment Analysis EDA Report
+# Mapping the Investment Data A Comprehensive Exploratory Analysis
 
 ## Introduction
 This detailed report provides an exploratory data analysis (EDA) on investment data. The objective is to uncover key insights and patterns within the data to better understand the investment landscape.
